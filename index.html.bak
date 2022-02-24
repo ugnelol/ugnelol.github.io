@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+		<head>
+ <title> Personal Website </title>
+ <link rel="stylesheet" href="style.css" />
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		</head>
+	<body>
+	<div id="container">
+  <header>
+    <h2>PORTFOLIO</h2>
+	 <nav>
+		<ul>
+		  <li><a href="index.html">Home</a></li>
+		  <li><a href="about.html">About Me</a></li>
+		  <li><a href="portfolio.html">Portfolio</a></li>
+		  <li><a href="contacts.html">Contacts</a></li>
+		</ul>
+	 </nav>
+  </header>
+  <main>
+		<div class=" two-column" >
+			<div>
+				<img style="width: 414px;" src="ella.jpeg" alt="girl in a bus" />
+			</div>
+			<div class="text">
+				<h1> FILM photography </h1>
+				<p>Analog photography, or also known as film photography, was first introduced by George Eastman in 1888. Since then the analog grew exponiantally,however, the digitalisation of cameras in 1975 gained more popularity and film photography was almost lost forever.</p>
+				<h2> This portfolio website was mainly created to show and inspire someone to shoot pictures on film.  </h2>
+					<div>
+					<form action="about.html">
+					<button class="button" role="submit">LEARN MORE ABOUT THE ARTIST</button>
+					</form>
+					</div>
+			</div>
+		</div>
+
+  </main>
+  <footer>
+  
+		<div id="contacts"> 
+				 <ul class="social">
+					<li><a href="https://www.facebook.com/ugne.pel"</a></li>
+					<img src="https://img.icons8.com/ios/50/000000/facebook--v2.png"/>
+					<li><a href="https://www.instagram.com/pelikyte/"</a></li>
+					<img src="https://img.icons8.com/ios/50/000000/instagram.png"/>
+					<li><a href="mailto:ugne.pelikyte@gmail.com"</a></li>
+					<img src="https://img.icons8.com/ios/50/000000/gmail--v1.png"/>
+  </footer>
+		</div>
+  </div>
+ 
+	</body>
+
+
+</html>
